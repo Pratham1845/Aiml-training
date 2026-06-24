@@ -45,4 +45,3 @@ elif n2>n1 and n2>n3:
 else:
     print(f"{n3} is the gratest")
 #4. Assignment Operators (=,+=,*=,-= etc..)
-#5. Bitwise Operators (&,|,^,~,<<,>>)
