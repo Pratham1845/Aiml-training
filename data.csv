@@ -1,0 +1,7 @@
+CustomerID,Age,Gender,Income,Purchased
+101,25,F,50000.0,No
+102,47,M,85000.0,Yes
+103,,F,62000.0,Yes
+104,31,M,,No
+105,19,F,22000.0,No
+106,52,,98000.0,Yes
