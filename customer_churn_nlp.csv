@@ -1,0 +1,501 @@
+CustomerID,Tenure,MonthlyCharges,SupportTickets,Contract,CustomerFeedback,Churn
+CUST-1000,40,35.09,0,One year,Customer support was very helpful and polite.,0
+CUST-1001,22,50.26,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1002,13,64.71,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1003,23,58.64,0,One year,"Great service, very happy with internet speed!",0
+CUST-1004,53,27.57,2,One year,Easy billing process and fast resolution.,0
+CUST-1005,55,53.28,0,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1006,20,28.58,0,Two year,Customer support was very helpful and polite.,0
+CUST-1007,37,30.37,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1008,58,34.54,0,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1009,17,36.44,1,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1010,2,82.78,5,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1011,34,53.65,1,One year,"Love the plan, no complaints at all.",0
+CUST-1012,35,44.62,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1013,36,79.28,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1014,17,97.01,4,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1015,9,106.17,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1016,34,61.79,0,Two year,Reliable network and good customer care.,0
+CUST-1017,1,82.23,7,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1018,25,52.16,0,Two year,Customer support was very helpful and polite.,0
+CUST-1019,24,36.09,2,One year,"Love the plan, no complaints at all.",0
+CUST-1020,41,32.66,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1021,24,29.23,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1022,13,78.3,6,One year,"Frequent network outages, very disappointed.",1
+CUST-1023,31,74.09,2,One year,Easy billing process and fast resolution.,0
+CUST-1024,7,105.81,2,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1025,24,72.34,2,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1026,48,63.08,1,One year,Easy billing process and fast resolution.,0
+CUST-1027,43,53.53,0,One year,Reliable network and good customer care.,0
+CUST-1028,12,76.33,3,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1029,28,39.67,1,One year,Reliable network and good customer care.,0
+CUST-1030,43,74.95,2,One year,"Love the plan, no complaints at all.",0
+CUST-1031,43,55.41,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1032,28,65.05,0,One year,Reliable network and good customer care.,0
+CUST-1033,59,68.91,0,One year,Reliable network and good customer care.,0
+CUST-1034,14,57.5,2,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1035,30,44.18,2,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1036,50,76.52,0,One year,"Great service, very happy with internet speed!",0
+CUST-1037,34,54.78,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1038,59,55.54,0,Month-to-month,Reliable network and good customer care.,0
+CUST-1039,5,104.72,2,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1040,3,103.53,7,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1041,19,68.19,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1042,14,89.69,7,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1043,44,25.99,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1044,19,71.71,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1045,33,39.59,1,One year,Reliable network and good customer care.,0
+CUST-1046,19,59.71,1,One year,"Great service, very happy with internet speed!",0
+CUST-1047,44,35.74,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1048,28,79.7,1,Two year,"Love the plan, no complaints at all.",0
+CUST-1049,9,107.89,6,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1050,44,29.14,0,One year,Easy billing process and fast resolution.,0
+CUST-1051,14,34.32,0,One year,Reliable network and good customer care.,0
+CUST-1052,51,28.87,1,One year,Reliable network and good customer care.,0
+CUST-1053,38,41.24,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1054,59,55.41,1,Two year,Smooth connection and fair monthly prices.,0
+CUST-1055,35,75.23,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1056,1,68.19,7,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1057,15,81.9,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1058,36,33.53,1,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1059,17,66.68,7,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1060,44,70.53,0,One year,Reliable network and good customer care.,0
+CUST-1061,41,54.73,2,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1062,10,79.53,2,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1063,37,26.39,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1064,12,34.53,0,One year,Reliable network and good customer care.,0
+CUST-1065,36,61.31,0,One year,"Love the plan, no complaints at all.",0
+CUST-1066,5,92.53,4,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1067,14,69.13,2,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1068,12,65.77,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1069,41,60.74,1,One year,"Love the plan, no complaints at all.",0
+CUST-1070,10,93.16,3,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1071,27,28.88,2,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1072,38,69.05,1,One year,"Great service, very happy with internet speed!",0
+CUST-1073,54,76.78,2,Two year,Customer support was very helpful and polite.,0
+CUST-1074,40,28.81,2,One year,"Love the plan, no complaints at all.",0
+CUST-1075,46,43.51,1,One year,Customer support was very helpful and polite.,0
+CUST-1076,45,39.34,2,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1077,22,73.26,0,Two year,"Great service, very happy with internet speed!",0
+CUST-1078,48,66.28,2,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1079,50,56.93,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1080,24,65.69,2,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1081,31,70.46,1,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1082,23,77.72,2,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1083,15,68.75,6,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1084,32,66.38,2,Two year,Easy billing process and fast resolution.,0
+CUST-1085,53,78.58,1,One year,"Love the plan, no complaints at all.",0
+CUST-1086,11,96.76,5,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1087,49,29.63,0,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1088,2,68.66,6,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1089,28,77.1,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1090,42,51.49,1,Two year,Customer support was very helpful and polite.,0
+CUST-1091,7,84.55,6,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1092,31,31.53,0,Two year,Easy billing process and fast resolution.,0
+CUST-1093,13,75.69,2,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1094,44,37.3,1,Two year,"Love the plan, no complaints at all.",0
+CUST-1095,15,105.1,7,One year,"Frequent network outages, very disappointed.",1
+CUST-1096,46,63.25,0,One year,"Great service, very happy with internet speed!",0
+CUST-1097,26,50.0,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1098,11,77.64,7,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1099,39,60.58,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1100,52,39.3,2,One year,"Great service, very happy with internet speed!",0
+CUST-1101,31,58.15,0,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1102,5,92.6,3,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1103,13,72.42,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1104,17,81.95,3,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1105,17,102.72,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1106,59,29.14,0,One year,"Love the plan, no complaints at all.",0
+CUST-1107,5,97.68,3,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1108,20,32.1,2,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1109,51,59.0,2,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1110,14,53.61,0,One year,"Love the plan, no complaints at all.",0
+CUST-1111,28,32.37,2,One year,"Love the plan, no complaints at all.",0
+CUST-1112,13,69.28,2,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1113,2,93.65,4,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1114,49,49.8,2,One year,Easy billing process and fast resolution.,0
+CUST-1115,28,77.22,1,Two year,Customer support was very helpful and polite.,0
+CUST-1116,5,109.1,6,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1117,59,43.79,2,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1118,22,32.64,0,Two year,Smooth connection and fair monthly prices.,0
+CUST-1119,43,34.48,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1120,39,44.12,1,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1121,23,36.35,1,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1122,20,30.08,2,One year,Easy billing process and fast resolution.,0
+CUST-1123,54,75.65,0,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1124,17,91.88,5,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1125,14,92.82,7,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1126,18,62.79,2,One year,Easy billing process and fast resolution.,0
+CUST-1127,29,49.61,2,One year,"Great service, very happy with internet speed!",0
+CUST-1128,10,90.38,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1129,36,73.98,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1130,29,29.78,2,Two year,Easy billing process and fast resolution.,0
+CUST-1131,17,90.4,3,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1132,2,76.0,4,One year,"Cancel my subscription, worst customer care ever.",1
+CUST-1133,6,81.44,5,One year,Overpriced plans and slow connection every night.,1
+CUST-1134,42,28.06,0,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1135,48,79.03,2,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1136,4,65.24,7,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1137,13,55.62,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1138,37,42.8,2,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1139,58,63.9,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1140,47,42.64,2,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1141,16,28.49,1,One year,Customer support was very helpful and polite.,0
+CUST-1142,48,25.15,0,One year,Reliable network and good customer care.,0
+CUST-1143,41,30.87,0,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1144,22,76.61,2,Month-to-month,Reliable network and good customer care.,0
+CUST-1145,40,32.69,0,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1146,32,35.25,2,One year,Customer support was very helpful and polite.,0
+CUST-1147,13,91.47,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1148,6,89.29,2,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1149,13,54.9,2,One year,Reliable network and good customer care.,0
+CUST-1150,7,97.87,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1151,1,89.01,4,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1152,5,100.04,2,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1153,5,104.45,2,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1154,47,50.14,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1155,15,64.72,1,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1156,47,64.39,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1157,8,91.25,3,One year,"Frequent network outages, very disappointed.",1
+CUST-1158,8,87.76,2,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1159,55,56.08,0,Two year,Easy billing process and fast resolution.,0
+CUST-1160,39,45.59,0,One year,"Love the plan, no complaints at all.",0
+CUST-1161,52,75.91,2,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1162,14,73.38,2,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1163,51,58.43,2,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1164,37,43.34,2,One year,Customer support was very helpful and polite.,0
+CUST-1165,2,85.96,4,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1166,55,75.2,1,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1167,35,42.13,0,One year,Reliable network and good customer care.,0
+CUST-1168,32,53.33,0,Two year,"Great service, very happy with internet speed!",0
+CUST-1169,33,29.69,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1170,24,46.85,2,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1171,41,35.49,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1172,25,64.27,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1173,41,55.78,2,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1174,14,45.53,1,Two year,Customer support was very helpful and polite.,0
+CUST-1175,34,78.84,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1176,14,37.71,2,One year,Reliable network and good customer care.,0
+CUST-1177,48,34.82,0,One year,Customer support was very helpful and polite.,0
+CUST-1178,14,92.14,7,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1179,14,78.19,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1180,16,73.16,5,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1181,15,93.11,4,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1182,23,70.69,0,One year,Reliable network and good customer care.,0
+CUST-1183,55,37.07,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1184,14,86.2,2,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1185,51,63.44,0,Month-to-month,Reliable network and good customer care.,0
+CUST-1186,57,79.14,1,Two year,Customer support was very helpful and polite.,0
+CUST-1187,22,70.24,0,Two year,"Great service, very happy with internet speed!",0
+CUST-1188,28,47.29,1,Two year,Easy billing process and fast resolution.,0
+CUST-1189,33,32.53,0,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1190,23,59.82,0,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1191,14,67.11,5,One year,"Terrible internet speed, disconnects constantly!",1
+CUST-1192,47,67.4,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1193,50,58.57,1,One year,Easy billing process and fast resolution.,0
+CUST-1194,5,86.77,3,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1195,54,71.55,2,One year,Customer support was very helpful and polite.,0
+CUST-1196,13,30.86,0,One year,"Great service, very happy with internet speed!",0
+CUST-1197,54,57.91,0,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1198,55,63.21,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1199,55,69.41,0,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1200,58,29.77,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1201,5,96.15,7,One year,Monthly charges are way too expensive for bad service.,1
+CUST-1202,26,63.12,0,Two year,Easy billing process and fast resolution.,0
+CUST-1203,27,75.89,2,One year,Reliable network and good customer care.,0
+CUST-1204,14,70.42,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1205,40,51.08,1,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1206,53,60.45,1,One year,Smooth connection and fair monthly prices.,0
+CUST-1207,56,29.23,0,One year,Customer support was very helpful and polite.,0
+CUST-1208,12,90.76,2,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1209,29,53.61,0,One year,Reliable network and good customer care.,0
+CUST-1210,46,72.86,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1211,43,76.29,2,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1212,40,27.07,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1213,10,69.13,5,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1214,56,44.5,1,Two year,Customer support was very helpful and polite.,0
+CUST-1215,36,40.25,0,Two year,"Great service, very happy with internet speed!",0
+CUST-1216,35,31.84,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1217,17,79.03,2,Two year,Smooth connection and fair monthly prices.,0
+CUST-1218,2,72.52,5,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1219,13,70.42,4,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1220,14,70.44,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1221,20,76.03,1,One year,Smooth connection and fair monthly prices.,0
+CUST-1222,29,63.28,2,Two year,Reliable network and good customer care.,0
+CUST-1223,58,26.92,1,Two year,Smooth connection and fair monthly prices.,0
+CUST-1224,3,77.28,6,One year,"Terrible internet speed, disconnects constantly!",1
+CUST-1225,10,101.43,2,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1226,26,25.28,2,Two year,Customer support was very helpful and polite.,0
+CUST-1227,48,37.11,0,Two year,"Love the plan, no complaints at all.",0
+CUST-1228,8,104.73,7,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1229,51,62.29,2,Two year,"Great service, very happy with internet speed!",0
+CUST-1230,16,94.63,2,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1231,56,63.36,1,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1232,7,104.67,6,One year,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1233,10,70.8,4,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1234,47,55.59,0,One year,Easy billing process and fast resolution.,0
+CUST-1235,24,58.93,0,One year,Easy billing process and fast resolution.,0
+CUST-1236,35,70.03,1,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1237,43,71.21,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1238,4,68.05,4,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1239,21,51.05,1,One year,Smooth connection and fair monthly prices.,0
+CUST-1240,14,108.81,6,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1241,23,26.35,2,Two year,Easy billing process and fast resolution.,0
+CUST-1242,22,62.58,1,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1243,17,69.6,2,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1244,11,74.93,3,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1245,38,72.74,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1246,15,83.89,4,One year,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1247,14,42.16,1,Two year,Easy billing process and fast resolution.,0
+CUST-1248,3,66.4,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1249,16,89.45,5,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1250,19,67.4,1,One year,Easy billing process and fast resolution.,0
+CUST-1251,55,26.79,1,One year,Reliable network and good customer care.,0
+CUST-1252,41,31.45,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1253,49,37.4,2,One year,"Love the plan, no complaints at all.",0
+CUST-1254,35,48.83,0,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1255,29,51.4,2,Two year,Smooth connection and fair monthly prices.,0
+CUST-1256,44,77.4,0,Month-to-month,Reliable network and good customer care.,0
+CUST-1257,9,75.89,2,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1258,33,36.57,0,One year,Customer support was very helpful and polite.,0
+CUST-1259,13,54.38,0,One year,"Great service, very happy with internet speed!",0
+CUST-1260,7,70.97,3,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1261,10,72.54,2,One year,"Cancel my subscription, worst customer care ever.",1
+CUST-1262,6,91.76,2,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1263,8,107.63,5,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1264,18,61.35,1,Two year,Customer support was very helpful and polite.,0
+CUST-1265,52,34.02,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1266,23,33.77,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1267,4,98.49,6,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1268,55,55.54,1,One year,"Love the plan, no complaints at all.",0
+CUST-1269,9,87.2,5,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1270,26,39.17,0,Two year,Easy billing process and fast resolution.,0
+CUST-1271,35,48.4,1,Two year,Customer support was very helpful and polite.,0
+CUST-1272,9,84.74,6,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1273,2,100.68,3,One year,Monthly charges are way too expensive for bad service.,1
+CUST-1274,12,82.27,3,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1275,37,64.37,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1276,13,34.95,0,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1277,58,57.61,2,One year,Customer support was very helpful and polite.,0
+CUST-1278,28,46.51,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1279,12,67.54,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1280,14,49.31,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1281,1,85.22,4,One year,"Terrible internet speed, disconnects constantly!",1
+CUST-1282,31,45.86,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1283,55,49.55,2,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1284,31,39.84,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1285,1,70.49,7,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1286,25,62.85,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1287,45,42.77,0,Two year,Easy billing process and fast resolution.,0
+CUST-1288,54,51.89,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1289,27,76.69,2,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1290,19,33.59,1,Two year,Reliable network and good customer care.,0
+CUST-1291,12,71.1,1,One year,Reliable network and good customer care.,0
+CUST-1292,28,70.7,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1293,36,62.92,0,One year,Easy billing process and fast resolution.,0
+CUST-1294,59,60.82,1,One year,Customer support was very helpful and polite.,0
+CUST-1295,6,79.32,2,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1296,13,77.99,4,One year,"Cancel my subscription, worst customer care ever.",1
+CUST-1297,4,95.04,7,One year,"Cancel my subscription, worst customer care ever.",1
+CUST-1298,13,101.8,7,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1299,12,45.16,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1300,36,57.81,0,One year,Reliable network and good customer care.,0
+CUST-1301,46,34.26,1,One year,Reliable network and good customer care.,0
+CUST-1302,32,72.48,1,One year,"Love the plan, no complaints at all.",0
+CUST-1303,12,71.7,6,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1304,59,55.22,1,Two year,Smooth connection and fair monthly prices.,0
+CUST-1305,32,35.77,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1306,4,106.72,5,One year,Overpriced plans and slow connection every night.,1
+CUST-1307,25,51.72,0,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1308,3,91.14,3,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1309,24,47.75,0,One year,Easy billing process and fast resolution.,0
+CUST-1310,21,68.99,2,Two year,"Great service, very happy with internet speed!",0
+CUST-1311,53,75.48,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1312,56,59.82,2,Month-to-month,Reliable network and good customer care.,0
+CUST-1313,9,100.72,3,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1314,8,99.65,2,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1315,35,70.24,2,One year,Customer support was very helpful and polite.,0
+CUST-1316,10,85.33,3,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1317,2,86.28,6,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1318,39,36.34,2,Month-to-month,Reliable network and good customer care.,0
+CUST-1319,36,79.33,2,One year,Customer support was very helpful and polite.,0
+CUST-1320,50,64.85,2,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1321,4,97.6,3,One year,"Cancel my subscription, worst customer care ever.",1
+CUST-1322,51,60.49,2,One year,"Great service, very happy with internet speed!",0
+CUST-1323,52,58.94,0,One year,Customer support was very helpful and polite.,0
+CUST-1324,55,37.85,0,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1325,55,42.84,2,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1326,2,81.33,4,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1327,33,55.93,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1328,16,83.43,7,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1329,23,78.97,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1330,51,26.1,0,Two year,"Love the plan, no complaints at all.",0
+CUST-1331,33,29.9,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1332,6,72.17,6,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1333,56,44.81,0,One year,"Great service, very happy with internet speed!",0
+CUST-1334,22,70.39,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1335,6,106.37,4,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1336,10,87.55,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1337,41,73.29,1,Two year,Smooth connection and fair monthly prices.,0
+CUST-1338,14,68.64,6,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1339,29,77.65,1,One year,"Great service, very happy with internet speed!",0
+CUST-1340,44,75.75,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1341,3,107.88,7,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1342,32,26.42,0,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1343,43,31.71,0,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1344,17,25.02,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1345,42,28.37,2,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1346,22,66.48,2,One year,"Great service, very happy with internet speed!",0
+CUST-1347,20,32.82,0,Two year,Reliable network and good customer care.,0
+CUST-1348,27,63.04,0,One year,Easy billing process and fast resolution.,0
+CUST-1349,48,58.84,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1350,5,104.9,7,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1351,39,51.49,2,Two year,Reliable network and good customer care.,0
+CUST-1352,2,71.02,6,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1353,34,32.54,2,One year,"Love the plan, no complaints at all.",0
+CUST-1354,56,78.67,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1355,22,49.99,2,Month-to-month,Reliable network and good customer care.,0
+CUST-1356,59,65.55,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1357,10,100.33,6,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1358,52,62.85,0,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1359,51,50.38,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1360,26,73.92,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1361,55,53.17,0,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1362,1,68.24,4,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1363,51,44.43,1,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1364,7,100.27,4,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1365,43,28.78,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1366,8,99.62,2,One year,"Bad experience, moving to another provider soon.",1
+CUST-1367,47,58.83,1,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1368,21,68.93,2,Two year,Reliable network and good customer care.,0
+CUST-1369,43,66.14,1,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1370,29,37.35,0,One year,Reliable network and good customer care.,0
+CUST-1371,36,34.0,1,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1372,57,25.7,0,Month-to-month,Reliable network and good customer care.,0
+CUST-1373,17,76.63,3,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1374,19,66.15,1,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1375,33,66.43,0,Two year,"Love the plan, no complaints at all.",0
+CUST-1376,2,70.93,5,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1377,34,71.24,0,One year,"Love the plan, no complaints at all.",0
+CUST-1378,14,41.37,2,Month-to-month,Reliable network and good customer care.,0
+CUST-1379,15,104.47,6,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1380,19,38.57,0,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1381,43,73.39,1,Month-to-month,Customer support was very helpful and polite.,0
+CUST-1382,14,92.72,4,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1383,47,25.29,1,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1384,14,98.73,6,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1385,6,104.45,6,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1386,31,67.92,1,One year,"Love the plan, no complaints at all.",0
+CUST-1387,51,34.81,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1388,56,30.11,2,Two year,"Love the plan, no complaints at all.",0
+CUST-1389,35,30.73,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1390,35,62.21,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1391,17,93.64,4,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1392,6,74.44,5,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1393,44,29.87,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1394,13,72.81,7,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1395,17,79.51,2,Two year,Customer support was very helpful and polite.,0
+CUST-1396,21,43.4,0,Two year,Reliable network and good customer care.,0
+CUST-1397,13,96.4,4,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1398,46,48.63,2,One year,"Love the plan, no complaints at all.",0
+CUST-1399,32,50.2,0,Two year,Customer support was very helpful and polite.,0
+CUST-1400,50,74.72,2,One year,"Great service, very happy with internet speed!",0
+CUST-1401,52,33.74,0,Two year,"Great service, very happy with internet speed!",0
+CUST-1402,12,67.01,7,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1403,25,38.73,1,One year,"Great service, very happy with internet speed!",0
+CUST-1404,12,72.04,5,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1405,54,32.66,1,One year,Easy billing process and fast resolution.,0
+CUST-1406,26,26.2,2,Two year,Easy billing process and fast resolution.,0
+CUST-1407,10,102.25,7,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1408,5,94.44,3,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1409,36,77.09,0,Month-to-month,"Great service, very happy with internet speed!",0
+CUST-1410,15,47.99,0,Two year,Easy billing process and fast resolution.,0
+CUST-1411,35,31.31,1,One year,Smooth connection and fair monthly prices.,0
+CUST-1412,33,55.19,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1413,10,72.46,3,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1414,45,72.41,2,One year,Reliable network and good customer care.,0
+CUST-1415,58,53.19,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1416,7,104.25,3,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1417,15,74.22,6,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1418,9,90.21,5,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1419,14,75.01,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1420,34,70.22,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1421,12,88.55,5,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1422,19,68.89,2,Month-to-month,Reliable network and good customer care.,0
+CUST-1423,53,49.62,1,Two year,Easy billing process and fast resolution.,0
+CUST-1424,56,74.84,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1425,12,26.84,0,Two year,Smooth connection and fair monthly prices.,0
+CUST-1426,41,58.84,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1427,14,79.39,2,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1428,41,59.91,1,Two year,Smooth connection and fair monthly prices.,0
+CUST-1429,38,62.78,2,One year,"Great service, very happy with internet speed!",0
+CUST-1430,5,108.81,5,One year,"Frequent network outages, very disappointed.",1
+CUST-1431,6,96.96,5,One year,Monthly charges are way too expensive for bad service.,1
+CUST-1432,12,79.13,3,Month-to-month,"Frequent network outages, very disappointed.",1
+CUST-1433,37,38.44,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1434,45,44.14,2,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1435,59,56.75,0,Two year,Smooth connection and fair monthly prices.,0
+CUST-1436,3,66.4,6,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1437,39,62.49,1,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1438,3,96.24,2,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1439,46,66.97,0,One year,Reliable network and good customer care.,0
+CUST-1440,17,99.47,4,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1441,44,73.08,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1442,57,50.32,0,One year,Smooth connection and fair monthly prices.,0
+CUST-1443,25,51.35,0,Month-to-month,Reliable network and good customer care.,0
+CUST-1444,16,96.85,7,One year,Monthly charges are way too expensive for bad service.,1
+CUST-1445,39,25.99,2,One year,"Great service, very happy with internet speed!",0
+CUST-1446,30,73.0,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1447,51,39.48,0,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1448,22,29.08,0,Month-to-month,Reliable network and good customer care.,0
+CUST-1449,15,73.25,1,One year,Reliable network and good customer care.,0
+CUST-1450,27,38.17,0,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1451,57,72.06,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1452,55,31.32,0,One year,"Great service, very happy with internet speed!",0
+CUST-1453,28,28.56,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1454,23,75.09,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1455,40,34.38,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1456,4,95.44,5,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1457,3,94.35,3,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1458,1,77.1,7,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1459,23,58.22,2,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1460,40,51.01,2,Month-to-month,Smooth connection and fair monthly prices.,0
+CUST-1461,31,36.38,0,One year,"Great service, very happy with internet speed!",0
+CUST-1462,19,27.02,0,One year,"Love the plan, no complaints at all.",0
+CUST-1463,53,41.14,1,Month-to-month,"Love the plan, no complaints at all.",0
+CUST-1464,28,31.26,2,Two year,Easy billing process and fast resolution.,0
+CUST-1465,13,95.39,7,One year,"Cancel my subscription, worst customer care ever.",1
+CUST-1466,13,82.76,5,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1467,12,95.36,2,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1468,5,65.07,4,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1469,34,27.23,1,Month-to-month,Excellent coverage and fast streaming experience.,0
+CUST-1470,47,45.3,2,One year,Excellent coverage and fast streaming experience.,0
+CUST-1471,12,68.61,2,One year,"Bad experience, moving to another provider soon.",1
+CUST-1472,21,44.91,2,One year,Reliable network and good customer care.,0
+CUST-1473,20,58.69,2,Two year,Smooth connection and fair monthly prices.,0
+CUST-1474,6,102.31,7,Month-to-month,"Terrible internet speed, disconnects constantly!",1
+CUST-1475,23,41.23,0,Month-to-month,Easy billing process and fast resolution.,0
+CUST-1476,32,69.44,2,One year,Easy billing process and fast resolution.,0
+CUST-1477,6,103.05,7,One year,"Frequent network outages, very disappointed.",1
+CUST-1478,20,41.85,1,One year,Excellent coverage and fast streaming experience.,0
+CUST-1479,3,85.26,5,One year,"Bad experience, moving to another provider soon.",1
+CUST-1480,22,57.02,1,One year,Reliable network and good customer care.,0
+CUST-1481,1,88.66,3,Month-to-month,"Cancel my subscription, worst customer care ever.",1
+CUST-1482,48,73.96,0,Two year,Smooth connection and fair monthly prices.,0
+CUST-1483,29,60.03,2,One year,Smooth connection and fair monthly prices.,0
+CUST-1484,49,71.59,1,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1485,42,62.86,0,Two year,Reliable network and good customer care.,0
+CUST-1486,14,78.02,1,Month-to-month,Reliable network and good customer care.,0
+CUST-1487,10,82.79,7,Month-to-month,"Bad experience, moving to another provider soon.",1
+CUST-1488,53,74.5,0,One year,Excellent coverage and fast streaming experience.,0
+CUST-1489,34,49.43,1,Two year,"Great service, very happy with internet speed!",0
+CUST-1490,58,33.34,0,One year,Reliable network and good customer care.,0
+CUST-1491,48,51.28,0,One year,Reliable network and good customer care.,0
+CUST-1492,34,49.22,1,Two year,"Love the plan, no complaints at all.",0
+CUST-1493,32,43.83,0,Two year,Easy billing process and fast resolution.,0
+CUST-1494,12,56.93,0,One year,Easy billing process and fast resolution.,0
+CUST-1495,4,83.08,2,Month-to-month,Monthly charges are way too expensive for bad service.,1
+CUST-1496,35,59.14,0,Two year,Excellent coverage and fast streaming experience.,0
+CUST-1497,5,89.44,4,Month-to-month,"Unhelpful support staff, waited 2 hours on call.",1
+CUST-1498,11,80.91,5,Month-to-month,Overpriced plans and slow connection every night.,1
+CUST-1499,5,100.74,5,Month-to-month,Monthly charges are way too expensive for bad service.,1
